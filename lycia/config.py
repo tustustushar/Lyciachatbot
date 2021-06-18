@@ -1,4 +1,4 @@
 class Config(object):
-    API_ID = int("2528049")
-    API_HASH = "49dd6c481ec8e40daf7be44a4ed33200"
-    TOKEN = "1241223850:AAGfn1Lsht1JYKWohaE_ViARQjSDQ9Xz7xk"
+    APP_ID = int("1923642")
+    API_HASH = "7ffd666e8992d69ab500afe152b89b45"
+    TOKEN = "1710695326:AAFIsq_MDdMBn6kk7NALDALYvlV1GBKvkSU"
